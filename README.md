@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Speedro, aspiring JS/React Ninja 
+- 👀 I’m interested in web technologies in general
+- 📫 How to reach me via email the.swdev@gmail.com
