@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Speedro, aspiring JS/React Ninja 
-- 👀 I’m interested in web technologies in general
+- 👋 Hi, I’m @Speedro, passionate software craftsman 
+- 👀 I’m interested in JVM, Functional programming and web technologies in general
 - 📫 How to reach me via email the.swdev@gmail.com
