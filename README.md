@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @Speedro, passionate software craftsman 
-- 👀 I’m interested in JVM, Functional programming and web technologies in general
+- 👋 Hi, I’m @Speedro, a JVM based software craftsman 
+- 👀 I’m interested in JVM technologies, Functional programming and SW development in general
+- :robot: Java, Kotlin, Javascript, Spring, Git, Docker, Junit, Postgres, MongoDB, IntelliJ, Bash, Elasticsearch, Jira
+- :book: CS self-learner
 - 📫 Reach me via email the.swdev@gmail.com
